@@ -1,4 +1,4 @@
-# [Automatic Map Deletr]
+# [Automatic Map Deleter]
 ## About
 Whenever a new Steam update is pushed out, and your game server updates, you may have noticed that you have some new maps in your csgo/maps/ directory. 
 In most cases your server will not be using all of these maps, and you may remove them to save some disk space on your server. But whenever a new update comes around, the same maps that you have removed previously, will get re-added. This plugin is designed to automatically remove any of the maps that you deem to be redundant and don't plan to use on your server, thereby saving you a lot of disk space, as well as time that is no longer spent removing unused content again and again.
