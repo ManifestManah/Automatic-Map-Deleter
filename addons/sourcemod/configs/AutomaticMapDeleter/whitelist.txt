@@ -1,0 +1,47 @@
+"WhiteListedMaps"									// Don't edit this line, or the script won't work
+{
+	"0"												// Just give this a name or number, as long as it is unique then all is good
+	{
+		"map"				"de_ancient"			// The full name of the map / level that you wish to NOT be removed from your server's maps folder
+	}
+
+	"1"
+	{
+		"map"				"de_anubis"
+	}
+
+	"2"
+	{
+		"map"				"de_cache"
+	}
+
+	"3"
+	{
+		"map"				"de_dust2"
+	}
+
+	"4"
+	{
+		"map"				"de_inferno"
+	}
+
+	"5"
+	{
+		"map"				"de_mirage"
+	}
+
+	"6"
+	{
+		"map"				"de_nuke"
+	}
+
+	"7"
+	{
+		"map"				"de_overpass"
+	}
+
+	"8"
+	{
+		"map"				"de_vertigo"
+	}
+}
