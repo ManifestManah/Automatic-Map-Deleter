@@ -103,10 +103,16 @@ public void RemoveMapFiles(const char[] mapName)
 	Format(fullFileName, sizeof(fullFileName), "maps/%s.jpg", mapName);
 	RemoveFile(fullFileName);
 
+	Format(fullFileName, sizeof(fullFileName), "maps/%s.txt", mapName);
+	RemoveFile(fullFileName);
+
 	Format(fullFileName, sizeof(fullFileName), "maps/%s_cameras.txt", mapName);
 	RemoveFile(fullFileName);
 
 	Format(fullFileName, sizeof(fullFileName), "maps/%s_story.txt", mapName);
+	RemoveFile(fullFileName);
+
+	Format(fullFileName, sizeof(fullFileName), "maps/%s_retake.txt", mapName);
 	RemoveFile(fullFileName);
 }
 
