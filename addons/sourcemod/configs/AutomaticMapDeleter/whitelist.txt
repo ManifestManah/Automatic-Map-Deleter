@@ -2,46 +2,191 @@
 {
 	"0"												// Just give this a name or number, as long as it is unique then all is good
 	{
-		"map"				"de_ancient"			// The full name of the map / level that you wish to NOT be removed from your server's maps folder
+		"map"				"ar_baggage"			// The full name of the map / level that you wish to NOT be removed from your server's maps folder
 	}
 
 	"1"
 	{
-		"map"				"de_anubis"
+		"map"				"ar_dizzy"
 	}
 
 	"2"
 	{
-		"map"				"de_cache"
+		"map"				"ar_lunacy"
 	}
 
 	"3"
 	{
-		"map"				"de_dust2"
+		"map"				"ar_monastery"
 	}
 
 	"4"
 	{
-		"map"				"de_inferno"
+		"map"				"ar_shoots"
 	}
 
 	"5"
 	{
-		"map"				"de_mirage"
+		"map"				"cs_agency"
 	}
 
 	"6"
 	{
-		"map"				"de_nuke"
+		"map"				"cs_assault"
 	}
 
 	"7"
 	{
-		"map"				"de_overpass"
+		"map"				"cs_italy"
 	}
 
 	"8"
 	{
+		"map"				"cs_militia"
+	}
+
+	"9"
+	{
+		"map"				"cs_office"
+	}
+
+	"10"
+	{
+		"map"				"de_ancient"
+	}
+
+	"11"
+	{
+		"map"				"de_anubis"
+	}
+	
+	"12"
+	{
+		"map"				"de_bank"
+	}
+	
+	"13"
+	{
+		"map"				"de_boyard"
+	}
+
+	"14"
+	{
+		"map"				"de_cache"
+	}
+
+	"15"
+	{
+		"map"				"de_canals"
+	}
+	
+	"16"
+	{
+		"map"				"de_cbble"
+	}
+	
+	"17"
+	{
+		"map"				"de_chalice"
+	}
+	
+	"18"
+	{
+		"map"				"de_dust2"
+	}
+
+	"19"
+	{
+		"map"				"de_inferno"
+	}
+
+	"20"
+	{
+		"map"				"de_mirage"
+	}
+
+	"21"
+	{
+		"map"				"de_nuke"
+	}
+
+	"22"
+	{
+		"map"				"de_overpass"
+	}
+
+	"23"
+	{
+		"map"				"de_safehouse"
+	}
+
+	"24"
+	{
+		"map"				"de_shortdust"
+	}
+
+	"25"
+	{
+		"map"				"de_shortnuke"
+	}
+
+	"26"
+	{
+		"map"				"de_stmarc"
+	}
+
+	"27"
+	{
+		"map"				"de_sugarcane"
+	}
+
+	"28"
+	{
+		"map"				"de_train"
+	}
+
+	"29"
+	{
+		"map"				"de_tuscan"
+	}
+
+	"30"
+	{
 		"map"				"de_vertigo"
+	}
+
+	"31"
+	{
+		"map"				"dz_blacksite"
+	}
+
+	"32"
+	{
+		"map"				"dz_ember"
+	}
+
+	"33"
+	{
+		"map"				"dz_sirocco"
+	}
+
+	"34"
+	{
+		"map"				"dz_vineyard"
+	}
+
+	"35"
+	{
+		"map"				"gd_cbble"
+	}
+
+	"36"
+	{
+		"map"				"lobby_mapveto"
+	}
+
+	"37"
+	{
+		"map"				"training1"
 	}
 }
